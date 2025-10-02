@@ -1,0 +1,31 @@
+\ProvidesPackage{tabrizu} % نام بسته استایل دانشگاه تبریز
+
+% بسته‌های پایه
+\usepackage{xepersian}    % پشتیبانی فارسی
+\usepackage{xcolor}       % رنگی کردن متن
+\usepackage{titlesec}     % تنظیم ظاهر عناوین
+\usepackage{setspace}     % فاصله خطوط
+\usepackage[a4paper,top=3cm,bottom=3cm,left=3cm,right=2.5cm]{geometry} % حاشیه‌ها
+\usepackage{amsmath,amssymb} % فرمول‌ها
+
+% فاصله خطوط
+\onehalfspacing
+
+% فونت متن و اعداد فارسی
+\settextfont[Path=../fonts/,Scale=1.1]{Vazir-Regular.ttf}
+\setdigitfont[Path=../fonts/]{Vazir-Regular.ttf}
+
+% فونت عناوین فصل
+\newfontfamily\chapterfont[Path=../fonts/,Scale=1.3]{Vazir-Bold.ttf}
+\titleformat{\chapter}[display]
+  {\normalfont\chapterfont\bfseries}
+  {\chaptername\ \thechapter}{20pt}{\Huge}
+
+% فونت بخش‌ها و زیر بخش‌ها
+\newfontfamily\sectionfont[Path=../fonts/,Scale=1.2]{Vazir-Bold.ttf}
+\titleformat{\section}{\sectionfont\bfseries\Large}{\thesection}{1em}{}
+\titleformat{\subsection}{\sectionfont\bfseries\large}{\thesubsection}{1em}{}
+
+% دستورات سفارشی
+\newcommand{\myterm}[1]{\textbf{\textcolor{blue}{#1}}} % اصطلاح مهم
+\newcommand{\red}[1]{\textcolor{red}{#1}}               % متن قرمز
