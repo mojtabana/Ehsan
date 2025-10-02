@@ -1,0 +1,1025 @@
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2025.10.2)  2 OCT 2025 19:04
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21>
+(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count181
+\c@chapter=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(./styles/tabrizu.sty
+
+LaTeX Warning: You have requested package `styles/tabrizu',
+               but the package provides `tabrizu'.
+
+Package: tabrizu 
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 227.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box50
+\beforetitleunit=\skip49
+\aftertitleunit=\skip50
+\ttl@plus=\dimen139
+\ttl@minus=\dimen140
+\ttl@toksa=\toks16
+\titlewidth=\dimen141
+\titlewidthlast=\dimen142
+\titlewidthfirst=\dimen143
+)
+(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count190
+\Gm@cntv=\count191
+\c@Gm@tempcnt=\count192
+\Gm@bindingoffset=\dimen144
+\Gm@wd@mp=\dimen145
+\Gm@odd@mp=\dimen146
+\Gm@even@mp=\dimen147
+\Gm@layoutwidth=\dimen148
+\Gm@layoutheight=\dimen149
+\Gm@layouthoffset=\dimen150
+\Gm@layoutvoffset=\dimen151
+\Gm@dimlist=\toks18
+)
+(/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/xepersian.sty
+Package: xepersian 2022/02/01 v23.2 Persian typesetting in XeLaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-01-21 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2022-01-12 L3 backend support: XeTeX
+
+(|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count193
+\l__color_backend_stack_int=\count194
+\g__color_backend_stack_int=\count195
+\g__graphics_track_int=\count196
+\l__pdf_internal_box=\box51
+\g__pdf_backend_object_int=\count197
+\g__pdf_backend_annotation_int=\count198
+\g__pdf_backend_link_int=\count199
+))
+Package: xparse 2022-01-12 L3 Experimental document command parser
+)
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count266
+\l__fontspec_language_int=\count267
+\l__fontspec_strnum_int=\count268
+\l__fontspec_tmp_int=\count269
+\l__fontspec_tmpa_int=\count270
+\l__fontspec_tmpb_int=\count271
+\l__fontspec_tmpc_int=\count272
+\l__fontspec_em_int=\count273
+\l__fontspec_emdef_int=\count274
+\l__fontspec_strong_int=\count275
+\l__fontspec_strongdef_int=\count276
+\l__fontspec_tmpa_dim=\dimen152
+\l__fontspec_tmpb_dim=\dimen153
+\l__fontspec_tmpc_dim=\dimen154
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/xepersian-persiancal.sty
+Package: xepersian-persiancal 2012/07/25 v0.2 provides Persian calendar
+\XePersian@i=\count277
+\XePersian@y=\count278
+\XePersian@m=\count279
+\XePersian@d=\count280
+\XePersian@latini=\count281
+\XePersian@persiani=\count282
+\XePersian@latinii=\count283
+\XePersian@persianii=\count284
+\XePersian@latiniii=\count285
+\XePersian@persianiii=\count286
+\XePersian@latiniv=\count287
+\XePersian@persianiv=\count288
+\XePersian@latinv=\count289
+\XePersian@persianv=\count290
+\XePersian@latinvi=\count291
+\XePersian@persianvi=\count292
+\XePersian@latinvii=\count293
+\XePersian@persianvii=\count294
+\XePersian@latinviii=\count295
+\XePersian@persianviii=\count296
+\XePersian@latinix=\count297
+\XePersian@persianix=\count298
+\XePersian@latinx=\count299
+\XePersian@persianx=\count300
+\XePersian@latinxi=\count301
+\XePersian@persianxi=\count302
+\XePersian@latinxii=\count303
+\XePersian@persianxii=\count304
+\XePersian@persianxiii=\count305
+\XePersian@temp=\count306
+\XePersian@temptwo=\count307
+\XePersian@tempthree=\count308
+\XePersian@yModHundred=\count309
+\XePersian@thirtytwo=\count310
+\XePersian@dn=\count311
+\XePersian@sn=\count312
+\XePersian@mminusone=\count313
+)
+(/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/xepersian-mathsdigitspec.s
+ty
+Package: xepersian-mathsdigitspec 2022/02/01 v1.1.8 Unicode Persian maths digit
+s in XeLaTeX
+) (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/bidi.sty
+Package: bidi 2022/02/01 v36.4 Bidirectional typesetting in plain TeX and LaTeX
+
+
+****************************************************
+* 
+* bidi package (Bidirectional typesetting in
+* plain TeX and LaTeX, using XeTeX engine)
+* 
+* Description: A convenient interface for
+* typesetting bidirectional texts in plain TeX
+* and LaTeX. The package includes adaptations
+* for use with many other commonly-used packages.
+* 
+* Copyright (c) 2007--2022 Vafa Khalighi
+* Copyright (c) 2018--2020 bidi-tex GitHub organization
+* 
+* v36.4, 2022/02/01
+* 
+* License: LaTeX Project Public License, version
+* 1.3c or higher (your choice)
+* 
+* Location on CTAN: /macros/xetex/latex/bidi
+* 
+* Issue tracker: https://github.com/tex-persian/bidi/issues
+* 
+* Support Email: tex-persian@vafa.ac
+* 
+* Primary author of bidi package: Vafa Khalighi.
+* 
+****************************************************
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/biditools.sty
+Package: biditools 2022/02/01 v2.1 Programming tools for bidi package
+\@bidi@envbody=\toks19
+\@bidi@emptytoks=\toks20
+\bidi@poscount=\count314
+\bidi@tempcountb=\count315
+\bidi@temptoksa=\toks21
+\bidi@temptoksb=\toks22
+\bidi@dummies=\count316
+\bidi@are@these@correct=\toks23
+\bidi@toks@lista=\toks24
+\bidi@toks@listb=\toks25
+\bidi@stack@length=\count317
+\bidi@empty@stack=\toks26
+\bidi@looprepeat@depth=\count318
+)
+==> First Aid for biditools.sty no longer applied!
+    Expected:
+        2020/05/13 v2 Programming tools for bidi package
+    but found:
+        2022/02/01 v2.1 Programming tools for bidi package
+    so I'm assuming it got fixed.
+(/usr/share/texlive/texmf-dist/tex/latex/zref/zref-abspage.sty
+Package: zref-abspage 2020-07-03 v2.32 Module abspage for zref (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/zref/zref-base.sty
+Package: zref-base 2020-07-03 v2.32 Module base for zref (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+Package zref Info: New property list: main on input line 764.
+Package zref Info: New property: default on input line 765.
+Package zref Info: New property: page on input line 766.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\c@abspage=\count319
+Package zref Info: New property: abspage on input line 66.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks27
+\XKV@tempa@toks=\toks28
+)
+\XKV@depth=\count320
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\@bidi@copyins@=\insert252
+
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/latex-xetex-bidi.def
+File: latex-xetex-bidi.def 2022/02/01 v1.3.8 bidi adaptations for `latex.ltx' f
+or XeTeX engine
+\bidi@n@everypar=\toks29
+\bidi@column@check@number=\count321
+
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/footnote-xetex-bidi.def
+File: footnote-xetex-bidi.def 2017/08/09 v1.1 bidi footnote macros for XeTeX en
+gine
+\c@footdir@label=\count322
+\footdir@toks=\toks30
+)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/report-xetex-bidi.def
+File: report-xetex-bidi.def 2017/06/09 v0.8 bidi adaptations for standard repor
+t class for XeTeX engine
+)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/color-xetex-bidi.def
+File: color-xetex-bidi.def 2013/04/08 v0.2 bidi adaptations for color package f
+or XeTeX engine
+LaTeX Info: Redefining \color on input line 50.
+)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/xcolor-xetex-bidi.def
+File: xcolor-xetex-bidi.def 2013/04/08 v0.2 bidi adaptations for xcolor package
+ for XeTeX engine
+LaTeX Info: Redefining \color on input line 49.
+LaTeX Info: Redefining \bidicolor on input line 92.
+)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/geometry-xetex-bidi.def
+File: geometry-xetex-bidi.def 2017/01/14 v0.2 bidi adaptations for geometry pac
+kage for XeTeX engine
+)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/titlesec-xetex-bidi.def
+File: titlesec-xetex-bidi.def 2010/07/25 v0.1 bidi adaptations for titlesec pac
+kage for XeTeX engine
+))
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/loadingorder-xetex-bidi.def
+File: loadingorder-xetex-bidi.def 2017/12/29 v0.97 making sure that bidi is the
+ last package loaded
+)
+\bidi@digits=\count323
+\bidi@digits@charclass=\XeTeXcharclass1
+\bidi@sepmark@charclass=\XeTeXcharclass2
+)
+****************************************************
+* 
+* xepersian package (Persian for LaTeX, using XeTeX engine)
+* 
+* Description: The package supports Persian
+* typesetting, using fonts provided in the
+* distribution.
+* 
+* Copyright (c) 2008--2022 Vafa Khalighi
+* Copyright (c) 2018--2020 bidi-tex GitHub Organization
+* 
+* v23.2, 2022/02/01
+* 
+* License: LaTeX Project Public License, version
+* 1.3c or higher (your choice)
+* 
+* Location on CTAN: /macros/xetex/latex/xepersian
+* 
+* Issue tracker: https://github.com/tex-persian/xepersian/issues
+* 
+* Support Email: tex-persian@vafa.ac
+* 
+* Primary author of xepersian package: Vafa Khalighi.
+* 
+****************************************************
+\xepersian@tcl=\count324
+\xepersian@ilg=\dimen155
+\xepersian@strutilg=\dimen156
+
+(/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/loadingorder-xepersian.def
+File: loadingorder-xepersian.def 2018/09/29 v0.5 making sure that xepersian is 
+the last package loaded
+) (/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/footnote-xepersian.def
+File: footnote-xepersian.def 2017/08/09 v0.6 footnote macros for xepersian pack
+age
+)
+(/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/report-xepersian.def
+File: report-xepersian.def 2010/07/25 v0.2 adaptations for standard report clas
+s
+)
+
+Package fontspec Info: Font family 'lmroman10-regular(0)' created for font
+(fontspec)             'lmroman10-regular' with options
+(fontspec)             [Ligatures=TeX,Path,BoldFont={lmroman10-bold},BoldItalic
+Font={lmroman10-bolditalic},ItalicFont={lmroman10-italic},SmallCapsFont={lmroma
+ncaps10-regular},SlantedFont={lmromanslant10-regular},BoldSlantedFont={lmromans
+lant10-bold}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[lmroman10-regular]/OT:script=latn;language=dflt;map
+ping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[lmroman10-bold]/OT:script=latn;language=dflt;mappin
+g=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[lmroman10-italic]/OT:script=latn;language=dflt;mapp
+ing=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+(fontspec)             - 'slanted' (m/sl) with NFSS spec.:
+(fontspec)             <->"[lmromanslant10-regular]/OT:script=latn;language=dfl
+t;mapping=tex-text;"
+(fontspec)             - 'slanted small caps'  (m/scsl) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"[lmroman10-bolditalic]/OT:script=latn;language=dflt;
+mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+(fontspec)             - 'bold slanted' (b/sl) with NFSS spec.:
+(fontspec)             <->"[lmromanslant10-bold]/OT:script=latn;language=dflt;m
+apping=tex-text;"
+(fontspec)             - 'bold slanted small caps'  (b/scsl) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+
+)
+
+! Package fontspec Error: The font "B-NAZANIN" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 \setdigitfont
+                  [Path=../fonts/,Extension=.TTF]{B-NAZANIN}
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+Package fontspec Warning: Font "B-NAZANIN" does not contain requested Script
+(fontspec)                "Persian".
+
+
+! Package fontspec Error: The font "B-NAZANIN" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 \setdigitfont
+                  [Path=../fonts/,Extension=.TTF]{B-NAZANIN}
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+! Package fontspec Error: The font "B-NAZANIN" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 \setdigitfont
+                  [Path=../fonts/,Extension=.TTF]{B-NAZANIN}
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+Package fontspec Info: Font family 'B-NAZANIN(0)' created for font 'B-NAZANIN'
+(fontspec)             with options
+(fontspec)             [Script=Persian,Ligatures=PersianTeX,Path=../fonts/,Exte
+nsion=.TTF,Scale=1.1].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1.1]"[../fonts/B-NAZANIN.TTF]/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1.1]"[../fonts/B-NAZANIN.TTF]/OT"
+
+LaTeX Font Info:    Font shape `TU/B-NAZANIN(0)/m/n' will be
+(Font)              scaled to size 13.20007pt on input line 17.
+! Font TU/B-NAZANIN(0)/m/n/12=[../fonts/B-NAZANIN.TTF]/OT at 13.20007pt not loa
+dable: Metric (TFM) file or installed font not found.
+<to be read again> 
+                   relax 
+l.17 \setdigitfont
+                  [Path=../fonts/,Extension=.TTF]{B-NAZANIN}
+I wasn't able to read the size data for this font,
+so I will ignore the font specification.
+[Wizards can fix TFM files using TFtoPL/PLtoTF.]
+You might try inserting a different font spec;
+e.g., type `I\font<same font id>=<substitute font name>'.
+
+
+! Package fontspec Error: The font "B-NAZANIN" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.18 
+     
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+Package fontspec Warning: Font "B-NAZANIN" does not contain requested Script
+(fontspec)                "Persian".
+
+
+! Package fontspec Error: The font "B-NAZANIN" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.18 
+     
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+! Package fontspec Error: The font "B-NAZANIN" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.18 
+     
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+Package fontspec Info: Font family 'B-NAZANIN(1)' created for font 'B-NAZANIN'
+(fontspec)             with options
+(fontspec)             [Script=Persian,Ligatures=PersianTeX,Path=../fonts/,Exte
+nsion=.TTF].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[../fonts/B-NAZANIN.TTF]/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"[../fonts/B-NAZANIN.TTF]/OT"
+
+
+! Package fontspec Error: The font "B-NAZANIN" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.18 
+     
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+! Package fontspec Error: The font "B-NAZANIN" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.18 
+     
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+! Package fontspec Error: The font "B-NAZANIN" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.18 
+     
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+Package fontspec Info: Font family 'B-NAZANIN(2)' created for font 'B-NAZANIN'
+(fontspec)             with options
+(fontspec)             [Ligatures=PersianTeX,Path=../fonts/,Extension=.TTF].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[../fonts/B-NAZANIN.TTF]/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"[../fonts/B-NAZANIN.TTF]/OT"
+
+Package xepersian-mathsdigitspec Info: DefiningthedefaultPersianmathsdigitsfont
+as'B-NAZANIN' on input line 18.
+\symOPERATORS=\mathgroup4
+\symnew@mathbf@font@digits=\mathgroup5
+\symnew@mathit@font@digits=\mathgroup6
+\symnew@mathrm@font@digits=\mathgroup7
+
+! Package xepersian-mathsdigitspec Error: The font "B-NAZANIN" does not
+(xepersian-mathsdigitspec)                contain U+06F0.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.18 
+     
+
+Select another font and rerun xelatex.
+
+
+
+! Package xepersian-mathsdigitspec Error: The font "B-NAZANIN" does not
+(xepersian-mathsdigitspec)                contain U+06F1.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.18 
+     
+
+Select another font and rerun xelatex.
+
+
+
+! Package xepersian-mathsdigitspec Error: The font "B-NAZANIN" does not
+(xepersian-mathsdigitspec)                contain U+06F2.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.18 
+     
+
+Select another font and rerun xelatex.
+
+
+
+! Package xepersian-mathsdigitspec Error: The font "B-NAZANIN" does not
+(xepersian-mathsdigitspec)                contain U+06F3.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.18 
+     
+
+Select another font and rerun xelatex.
+
+
+
+! Package xepersian-mathsdigitspec Error: The font "B-NAZANIN" does not
+(xepersian-mathsdigitspec)                contain U+06F4.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.18 
+     
+
+Select another font and rerun xelatex.
+
+
+
+! Package xepersian-mathsdigitspec Error: The font "B-NAZANIN" does not
+(xepersian-mathsdigitspec)                contain U+06F5.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.18 
+     
+
+Select another font and rerun xelatex.
+
+
+
+! Package xepersian-mathsdigitspec Error: The font "B-NAZANIN" does not
+(xepersian-mathsdigitspec)                contain U+06F6.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.18 
+     
+
+Select another font and rerun xelatex.
+
+
+
+! Package xepersian-mathsdigitspec Error: The font "B-NAZANIN" does not
+(xepersian-mathsdigitspec)                contain U+06F7.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.18 
+     
+
+Select another font and rerun xelatex.
+
+
+
+! Package xepersian-mathsdigitspec Error: The font "B-NAZANIN" does not
+(xepersian-mathsdigitspec)                contain U+06F8.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.18 
+     
+
+Select another font and rerun xelatex.
+
+
+
+! Package xepersian-mathsdigitspec Error: The font "B-NAZANIN" does not
+(xepersian-mathsdigitspec)                contain U+06F9.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.18 
+     
+
+Select another font and rerun xelatex.
+
+
+
+! Package xepersian-mathsdigitspec Error: The font "B-NAZANIN" does not
+(xepersian-mathsdigitspec)                contain U+066A.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.18 
+     
+
+Select another font and rerun xelatex.
+
+
+
+! Package xepersian-mathsdigitspec Error: The font "B-NAZANIN" does not
+(xepersian-mathsdigitspec)                contain U+066B.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.18 
+     
+
+Select another font and rerun xelatex.
+
+
+
+! Package fontspec Error: The font "B-NAZANIN" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.21 \titleformat
+                 {\chapter}[display]
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+! Package fontspec Error: The font "B-NAZANIN" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.21 \titleformat
+                 {\chapter}[display]
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+! Package fontspec Error: The font "B-NAZANIN" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.21 \titleformat
+                 {\chapter}[display]
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+Package fontspec Info: Font family 'B-NAZANIN(3)' created for font 'B-NAZANIN'
+(fontspec)             with options [Path=../fonts/,Extension=.TTF,Scale=1.3].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1.3]"[../fonts/B-NAZANIN.TTF]/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1.3]"[../fonts/B-NAZANIN.TTF]/OT"
+
+
+! Package fontspec Error: The font "B-NAZANIN" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.27 \titleformat
+                 {\section}{\sectionfont\bfseries\Large}{\thesection}{1em}{}
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+! Package fontspec Error: The font "B-NAZANIN" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.27 \titleformat
+                 {\section}{\sectionfont\bfseries\Large}{\thesection}{1em}{}
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+! Package fontspec Error: The font "B-NAZANIN" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.27 \titleformat
+                 {\section}{\sectionfont\bfseries\Large}{\thesection}{1em}{}
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+Package fontspec Info: Font family 'B-NAZANIN(4)' created for font 'B-NAZANIN'
+(fontspec)             with options [Path=../fonts/,Extension=.TTF,Scale=1.2].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1.2]"[../fonts/B-NAZANIN.TTF]/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1.2]"[../fonts/B-NAZANIN.TTF]/OT"
+
+) (./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 6
+.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 441.01773pt, 71.13188pt)
+* v-part:(T,H,B)=(85.35826pt, 674.33032pt, 85.35826pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=441.01773pt
+* \textheight=674.33032pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-23.91173pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Missing character: There is no س ("633) in font nullfont!
+Missing character: There is no ل ("644) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no م ("645) in font nullfont!
+Missing character: There is no د ("62F) in font nullfont!
+Missing character: There is no ن ("646) in font nullfont!
+Missing character: There is no ی ("6CC) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ! ("21) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ی ("6CC) in font nullfont!
+Missing character: There is no ن ("646) in font nullfont!
+Missing character: There is no ی ("6CC) in font nullfont!
+Missing character: There is no ک ("6A9) in font nullfont!
+Missing character: There is no ت ("62A) in font nullfont!
+Missing character: There is no س ("633) in font nullfont!
+Missing character: There is no ت ("62A) in font nullfont!
+Missing character: There is no ف ("641) in font nullfont!
+Missing character: There is no و ("648) in font nullfont!
+Missing character: There is no ن ("646) in font nullfont!
+Missing character: There is no ت ("62A) in font nullfont!
+Missing character: There is no و ("648) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no س ("633) in font nullfont!
+Missing character: There is no ت ("62A) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ی ("6CC) in font nullfont!
+Missing character: There is no ل ("644) in font nullfont!
+Missing character: There is no ب ("628) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no B ("42) in font nullfont!
+Missing character: There is no N ("4E) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no z ("7A) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no س ("633) in font nullfont!
+Missing character: There is no ت ("62A) in font nullfont!
+Missing character: There is no . ("2E) in font nullfont!
+! Font TU/B-NAZANIN(1)/m/n/12=[../fonts/B-NAZANIN.TTF]/OT at 12.0pt not loadabl
+e: Metric (TFM) file or installed font not found.
+<to be read again> 
+                   relax 
+l.10 \end{document}
+                   
+I wasn't able to read the size data for this font,
+so I will ignore the font specification.
+[Wizards can fix TFM files using TFtoPL/PLtoTF.]
+You might try inserting a different font spec;
+e.g., type `I\font<same font id>=<substitute font name>'.
+
+Missing character: There is no 1 ("31) in font nullfont!
+[1
+
+] (./main.aux) ) 
+Here is how much of TeX's memory you used:
+ 7139 strings out of 478190
+ 174576 string characters out of 5854813
+ 602132 words of memory out of 5000000
+ 27646 multiletter control sequences out of 15000+600000
+ 469347 words of font info for 39 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 103i,5n,111p,1291b,249s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on main.xdv (1 page, 564 bytes).
