@@ -1,0 +1,56 @@
+% main.tex
+\documentclass[12pt]{report}
+
+% ---------------------------
+% بسته‌ها و تنظیمات
+% ---------------------------
+\usepackage{xepersian}             % فارسی
+\settextfont[Scale=1.1]{Vazir}     % فونت متن
+\setdigitfont{Vazir}               % فونت اعداد
+\usepackage{graphicx}              % تصاویر
+\usepackage{hyperref}              % لینک و نشانه‌گذاری
+\usepackage[backend=biber,style=numeric]{biblatex} % مراجع
+\addbibresource{refs.bib}          % فایل BibTeX
+\usepackage{amsmath,amssymb}       % فرمول ریاضی
+\usepackage{titlesec}              % تنظیمات عناوین
+\usepackage{setspace}              % فاصله خطوط
+\onehalfspacing                     % فاصله خطوط 1.5 برابر
+\usepackage[a4paper,top=3cm,bottom=3cm,left=3cm,right=2.5cm]{geometry} % حاشیه‌ها
+
+% ---------------------------
+% استایل‌های سفارشی
+% ---------------------------
+\input{styles/mycommands.sty}
+
+% ---------------------------
+% شروع سند
+% ---------------------------
+\begin{document}
+
+\title{عنوان پایان‌نامه}
+\author{نام و نام خانوادگی}
+\date{\today}
+\maketitle
+
+\begin{abstract}
+خلاصه پایان‌نامه اینجا نوشته می‌شود.
+\end{abstract}
+
+\tableofcontents        % فهرست مطالب
+\listoffigures          % فهرست شکل‌ها
+\listoftables           % فهرست جداول
+
+% ---------------------------
+% فصل‌ها
+% ---------------------------
+\input{chapters/chapter1.tex}
+\input{chapters/chapter2.tex}
+\input{chapters/chapter3.tex}
+
+% ---------------------------
+% منابع
+% ---------------------------
+\nocite{*}               % همه منابع موجود در refs.bib
+\printbibliography
+
+\end{document}
